@@ -6,10 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Andrew Grabko's resume
+title: Andrew Grabko
 email: andrew.grabko@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ttrevan.github.io" # the base hostname & protocol for your site
+
+# accounts
 twitter_username: t_revan
 github_username:  ttRevan
 
